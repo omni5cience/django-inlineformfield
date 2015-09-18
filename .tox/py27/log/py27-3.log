@@ -1,0 +1,31 @@
+actionid=py27
+msg=developpkg
+cmdargs=[local('/home/bbeecher/workspace/django-inlineformfield/.tox/py27/bin/pip'), 'install', '--pre', '--no-deps', '-e', '/home/bbeecher/workspace/django-inlineformfield']
+env={'force_s3tc_enable': 'true', 'PYTHONIOENCODING': 'utf_8', 'LESS': '-R', 'GNOME_DESKTOP_SESSION_ID': 'this-is-deprecated', 'ALTERNATE_EDITOR': '', 'LC_CTYPE': 'en_US.UTF-8', 'LOGNAME': 'bbeecher', 'USER': 'bbeecher', 'GNOME_KEYRING_CONTROL': '/home/bbeecher/.cache/keyring-zqVVVk', 'PATH': '/home/bbeecher/workspace/django-inlineformfield/.tox/py27/bin:/home/bbeecher/bin:/usr/local/bin:/usr/bin:/bin:/usr/local/games:/usr/games:/home/bbeecher/bin:/home/bbeecher/.rvm/bin:/opt/android-sdk-linux/tools:/opt/android-sdk-linux/platforms:/opt/android-sdk-linux/platform-tools:/home/bbeecher/workspace/android/android-sdk-linux/tools:/home/bbeecher/workspace/android/android-sdk-linux/platform-tools:/home/bbeecher/bin:/home/bbeecher/.rvm/bin:/opt/android-sdk-linux/tools:/opt/android-sdk-linux/platforms:/opt/android-sdk-linux/platform-tools:/home/bbeecher/workspace/android/android-sdk-linux/tools:/home/bbeecher/workspace/android/android-sdk-linux/platform-tools', 'WINDOWPATH': '7', 'SSH_AGENT_PID': '2333', 'LANG': 'en_US.UTF-8', 'TERM': 'screen', 'SHELL': '/bin/zsh', 'XAUTHORITY': '/var/run/gdm3/auth-for-bbeecher-UMiO10/database', 'SESSION_MANAGER': 'local/falstaff:@/tmp/.ICE-unix/9964,unix/falstaff:/tmp/.ICE-unix/9964', 'SHLVL': '3', 'PROJECT_HOME': '/home/bbeecher/workspace', 'DISPLAY': ':0', 'WINDOWID': '48234500', 'EDITOR': '/usr/bin/emacsclient -nw', 'PYTHONHASHSEED': '2329950976', 'GREP_COLOR': '1;32', 'GPG_AGENT_INFO': '/home/bbeecher/.cache/keyring-zqVVVk/gpg:0:1', 'HOME': '/home/bbeecher', 'HIPCHAT_AUTH_TOKEN': '8d46971b54636af0d7e60f4d3510ad', 'USERNAME': 'bbeecher', 'WORKON_HOME': '/home/bbeecher/.virtualenvs', 'LC_ALL': 'en_US.UTF-8', 'SSH_AUTH_SOCK': '/home/bbeecher/.cache/keyring-zqVVVk/ssh', 'TMUX': '/tmp/wemux-wemux,30809,0', 'GDMSESSION': 'gnome-fallback', 'GREP_OPTIONS': '--color=auto --exclude-dir=.cvs --exclude-dir=.git --exclude-dir=.hg --exclude-dir=.svn', 'GNOME_KEYRING_PID': '9941', 'ANDROID_HOME': '/home/bbeecher/workspace/android/android-sdk-linux', 'GPG_TTY': '/dev/pts/27', 'DBUS_SESSION_BUS_ADDRESS': 'unix:abstract=/tmp/dbus-kszBFh5Hn0,guid=5d9cb4bd72dee8994f5efcd25452a43e', '_': '/usr/local/bin/tox', 'XDG_SESSION_COOKIE': 'eaacb2db7736d046a5edf59051e942bd-1414702142.181702-1241113587', 'VIRTUALENVWRAPPER_PROJECT_FILENAME': '.project', 'DESKTOP_SESSION': 'gnome-fallback', 'LSCOLORS': 'Gxfxcxdxbxegedabagacad', 'VIRTUALENVWRAPPER_HOOK_DIR': '/home/bbeecher/.virtualenvs', 'OLDPWD': '/home/bbeecher/workspace/django-inlineformfield/django-inlineformfield', 'PYMACS_PYTHON': 'python2.7', 'XDG_DATA_DIRS': '/usr/share/gnome:/usr/local/share/:/usr/share/', 'PWD': '/home/bbeecher/workspace/django-inlineformfield', 'COLORTERM': 'gnome-terminal', 'VIRTUALENVWRAPPER_LOG_DIR': '/home/bbeecher/.virtualenvs', 'PAGER': 'less', 'TMUX_PANE': '%0'}
+Obtaining file:///home/bbeecher/workspace/django-inlineformfield
+  Running setup.py (path:/home/bbeecher/workspace/django-inlineformfield/setup.py) egg_info for package from file:///home/bbeecher/workspace/django-inlineformfield
+    
+    error: package directory 'django_inlineformfield' does not exist
+    Complete output from command python setup.py egg_info:
+    running egg_info
+
+creating django_inlineformfield.egg-info
+
+writing dependency_links to django_inlineformfield.egg-info/dependency_links.txt
+
+writing django_inlineformfield.egg-info/PKG-INFO
+
+writing top-level names to django_inlineformfield.egg-info/top_level.txt
+
+writing manifest file 'django_inlineformfield.egg-info/SOURCES.txt'
+
+warning: manifest_maker: standard file '-c' not found
+
+
+
+error: package directory 'django_inlineformfield' does not exist
+
+----------------------------------------
+Cleaning up...
+Command python setup.py egg_info failed with error code 1 in /home/bbeecher/workspace/django-inlineformfield
+Storing debug log for failure in /home/bbeecher/.pip/pip.log

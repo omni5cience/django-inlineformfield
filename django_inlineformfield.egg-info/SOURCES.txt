@@ -1,0 +1,10 @@
+django_inlineformfield/__init__.py
+django_inlineformfield/models.py
+django_inlineformfield/tests.py
+django_inlineformfield.egg-info/PKG-INFO
+django_inlineformfield.egg-info/SOURCES.txt
+django_inlineformfield.egg-info/dependency_links.txt
+django_inlineformfield.egg-info/not-zip-safe
+django_inlineformfield.egg-info/top_level.txt
+django_inlineformfield/forms/__init__.py
+django_inlineformfield/forms/fields.py

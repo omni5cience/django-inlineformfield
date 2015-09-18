@@ -1,0 +1,19 @@
+Metadata-Version: 1.1
+Name: django-inlineformfield
+Version: 0.0.1
+Summary: Django inline form field.
+Home-page: http://github.com/lightmatter/django-inlineformfield
+Author: Ben Beecher
+Author-email: ben@lightmatter.com
+License: MIT License
+Description: UNKNOWN
+Keywords: django
+Platform: any
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Web Environment
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3
+Classifier: Framework :: Django
